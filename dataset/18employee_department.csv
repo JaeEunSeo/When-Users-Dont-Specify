@@ -1,0 +1,52 @@
+Department,Position,Employees
+Customer Service,Director,22
+Customer Service,Junior,38
+Customer Service,Manager,66
+Customer Service,Senior,48
+Customer Service,VP,78
+Engineering,Director,28
+Engineering,Junior,65
+Engineering,Manager,7
+Engineering,Mid-level,25
+Engineering,Senior,79
+Engineering,VP,79
+Finance,Director,13
+Finance,Junior,64
+Finance,Senior,57
+Finance,VP,6
+HR,Director,55
+HR,Junior,68
+HR,Manager,11
+HR,Mid-level,7
+HR,Senior,25
+IT,Director,84
+IT,Junior,30
+IT,Manager,64
+IT,Mid-level,28
+IT,Senior,57
+Legal,Manager,13
+Legal,Mid-level,75
+Legal,Senior,12
+Legal,VP,5
+Marketing,Junior,6
+Marketing,Manager,25
+Marketing,Mid-level,37
+Marketing,Senior,68
+Marketing,VP,64
+Operations,Director,6
+Operations,Junior,40
+Operations,Manager,10
+Operations,Mid-level,82
+Operations,Senior,54
+Operations,VP,8
+R&D,Director,45
+R&D,Junior,32
+R&D,Manager,9
+R&D,Mid-level,37
+R&D,Senior,77
+R&D,VP,11
+Sales,Director,19
+Sales,Junior,64
+Sales,Manager,84
+Sales,Mid-level,63
+Sales,Senior,46

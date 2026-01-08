@@ -1,0 +1,16 @@
+subject,grade_level,average_score,benchmark_score
+Math,Middle,78,85
+Math,High,82,85
+Math,College,85,85
+Science,Middle,80,85
+Science,High,84,85
+Science,College,88,85
+History,Middle,74,80
+History,High,77,80
+History,College,81,80
+English,Middle,88,90
+English,High,90,90
+English,College,92,90
+Art,Middle,85,88
+Art,High,87,88
+Art,College,89,88

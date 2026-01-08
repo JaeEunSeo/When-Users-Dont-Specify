@@ -1,0 +1,17 @@
+metric,server,current_value,reference_limit
+CPU,A,65,70
+CPU,B,70,70
+CPU,C,62,70
+CPU,D,68,70
+Memory,A,72,75
+Memory,B,78,75
+Memory,C,74,75
+Memory,D,76,75
+Disk,A,80,85
+Disk,B,82,85
+Disk,C,78,85
+Disk,D,85,85
+Network,A,55,60
+Network,B,60,60
+Network,C,58,60
+Network,D,62,60

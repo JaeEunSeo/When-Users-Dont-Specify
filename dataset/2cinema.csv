@@ -1,0 +1,11 @@
+cinema_id,name,openning_year,capacity,location
+1,Codling,1970-01-01 00:00:00.000002010,1100,County Wicklow
+2,Carrowleagh,1970-01-01 00:00:00.000002012,368,County Cork
+3,Dublin Array,1970-01-01 00:00:00.000002015,364,County Dublin
+4,Glenmore,1970-01-01 00:00:00.000002009,305,County Clare
+5,Glenough,1970-01-01 00:00:00.000002010,325,County Tipperary
+6,Gortahile,1970-01-01 00:00:00.000002010,208,County Laois
+7,Grouse Lodge,1970-01-01 00:00:00.000002011,203,County Tipperary
+8,Moneypoint,1970-01-01 00:00:00.000002011,225,County Clare
+9,Mount Callan,1970-01-01 00:00:00.000002011,908,County Clare
+10,Oriel,1970-01-01 00:00:00.000002013,330,County Louth

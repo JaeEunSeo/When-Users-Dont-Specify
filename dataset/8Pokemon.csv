@@ -1,0 +1,24 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,FALSE
+2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,FALSE
+3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,1,FALSE
+4,VenusaurMega Venusaur,Grass,Poison,625,80,100,123,122,120,80,1,FALSE
+5,Butterfree,Bug,Flying,395,60,45,50,90,80,70,1,FALSE
+6,Weedle,Bug,Poison,195,40,35,30,20,20,50,1,FALSE
+7,Kakuna,Bug,Poison,205,45,25,50,25,25,35,1,FALSE
+8,Beedrill,Bug,Poison,395,65,90,40,45,80,75,1,FALSE
+9,BeedrillMega Beedrill,Bug,Poison,495,65,150,40,15,80,145,1,FALSE
+10,Pidgey,Normal,Flying,251,40,45,40,35,35,56,1,FALSE
+11,Pidgeotto,Normal,Flying,349,63,60,55,50,50,71,1,FALSE
+12,Pidgeot,Normal,Flying,479,83,80,75,70,70,101,1,FALSE
+13,Jigglypuff,Normal,Fairy,270,115,45,20,45,25,20,1,FALSE
+14,Wigglytuff,Normal,Fairy,435,140,70,45,85,50,45,1,FALSE
+15,Zubat,Poison,Flying,245,40,45,35,30,40,55,1,FALSE
+16,Golbat,Poison,Flying,455,75,80,70,65,75,90,1,FALSE
+17,Oddish,Grass,Poison,320,45,50,55,75,65,30,1,FALSE
+18,Gloom,Grass,Poison,395,60,65,70,85,75,40,1,FALSE
+19,Vileplume,Grass,Poison,490,75,80,85,110,90,50,1,FALSE
+20,Paras,Bug,Grass,285,35,70,55,45,55,25,1,FALSE
+21,Parasect,Bug,Grass,405,60,95,80,60,80,30,1,FALSE
+22,Venonat,Bug,Poison,305,60,55,50,40,55,45,1,FALSE
+23,Venomoth,Bug,Poison,450,70,65,60,90,75,90,1,FALSE
