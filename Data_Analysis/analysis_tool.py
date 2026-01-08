@@ -19,9 +19,9 @@ CLAIM_FILE = os.path.join(DATA_ANALYSIS_DIR, "claims.jsonl")
 IMAGE_ROOT = os.path.join(PROJECT_ROOT, "Charts")
 
 JUDGMENT_FILES = [
-    os.path.join(LLM_JUDGEMENT_DIR, "claude_responses_judged_v2.jsonl"),
-    os.path.join(LLM_JUDGEMENT_DIR, "openai_responses_judged_v2.jsonl"),
-    os.path.join(LLM_JUDGEMENT_DIR, "gemini_responses_judged_v2.jsonl"),
+    os.path.join(LLM_JUDGEMENT_DIR, "claude_responses_judged.jsonl"),
+    os.path.join(LLM_JUDGEMENT_DIR, "openai_responses_judged.jsonl"),
+    os.path.join(LLM_JUDGEMENT_DIR, "gemini_responses_judged.jsonl"),
 ]
 
 st.set_page_config(layout="wide", page_title="HCI Research Integrated Tool")
